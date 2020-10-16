@@ -15,6 +15,5 @@ func Burbuja(s []int64)  {
 }
 
 func main()  {
-	a := []int64{8,4, 6, 3, 7, 10, 1, 2, 5, 9}
-	Burbuja(a)
+	
 }
